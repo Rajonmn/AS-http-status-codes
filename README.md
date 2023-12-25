@@ -1,6 +1,6 @@
 ## AS-http-status-codes
 
-# $\textcolor{Orange}{HTTP\ response\ status\ codes}$
+# HTTP response status codes
 ## What are HTTP status codes?
 An HTTP status code is a server response to a browser’s request. When you visit a website, your browser sends a request to the site’s server, and the server then responds to the browser’s request with a three-digit code: the HTTP status code.
 
